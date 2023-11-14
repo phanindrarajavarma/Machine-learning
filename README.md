@@ -1,5 +1,4 @@
-# Machine-learning
-Online News Popularity Project Report
+# Online News Popularity Project Report
 This repository contains the project report for Group 6 in the IE7300 Statistical Learning for Engineers course, Spring 2023, under the guidance of Professor Ramin Mohammadi.
 
 Abstract
